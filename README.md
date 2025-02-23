@@ -11,7 +11,7 @@ Excel/CSV for raw data
 Dashboard Preview
 
 How to Use
-Download the .pbix file.
+Download PDF file.
 Open it in Power BI Desktop.
 Explore the insights!
 
