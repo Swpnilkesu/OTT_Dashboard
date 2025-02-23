@@ -1,3 +1,5 @@
+![Screenshot (35)](https://github.com/user-attachments/assets/16ef578d-58e3-488b-b314-59b60c3c0c3b)
+![Screenshot (36)](https://github.com/user-attachments/assets/88357baf-5fc0-4648-ba63-1392871aa684)
 A Power BI project analyzing OTT platform performance and content trends.
 
 Key Insights:
